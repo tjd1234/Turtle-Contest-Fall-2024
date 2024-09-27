@@ -18,7 +18,7 @@ The theme of the picture is: A logo for an introduction to programming course.
 
 2. Your program should have this structure:
 
-    ```
+    ```python
     #
     # logo_contest.py
     #
